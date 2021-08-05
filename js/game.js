@@ -146,6 +146,6 @@ class Game{
       fill("blue")
       textSize(40);
       
-        console.log("Game Ended",350,300);
+        text("Game Ended",350,300);
     }
 }
